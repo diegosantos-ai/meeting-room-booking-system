@@ -35,6 +35,6 @@ src/
 
 ## Status
 
-Projeto em fase inicial de modelagem e definição do domínio.
+Projeto em fase funcional inicial. O sistema já executa em console com menu interativo, cadastro de reservas, validação de índice da sala, prevenção de conflito por turno e listagem do relatório de reservas.
 
 
